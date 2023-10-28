@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youge0619&layout=compact&theme=tokyonight)
+<!-- 常用语言 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youge0619&layout=compact&theme=tokyonight) -->
 
 <!--
 **Youge0619/Youge0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
